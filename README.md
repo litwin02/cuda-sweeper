@@ -1,2 +1,3 @@
-# cuda-sweeper
-Runing Garbage Collection on GPU.
+# cuda-mark-sweep 🧹⚡
+
+> C++ & CUDA-accelerated parallel Mark & Sweep Garbage Collector using Unified Memory.
